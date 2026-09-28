@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+studysphere.db
+uploads/*
+!uploads/.gitkeep
+vector_store/*
+!vector_store/.gitkeep
+venv/
+.venv/
